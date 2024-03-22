@@ -1,0 +1,2 @@
+- Trong Node.js, '__dirname' là một biến toàn cục môi trường được sử dụng
+để chỉ dẫn tuyệt đối đến thư mục hiện tại của tệp javascript đang được thực thi.
